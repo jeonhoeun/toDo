@@ -1,2 +1,3 @@
-# toDo
-To Do List
+---
+permalink: /index.html
+---
